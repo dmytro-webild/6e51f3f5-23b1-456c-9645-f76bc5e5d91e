@@ -158,7 +158,7 @@ export default function HomePage() {
               price: "$49.99",
               rating: 4,
               reviewCount: "1.8k",
-              imageSrc: "http://img.b2bpic.net/free-photo/adult-reusing-materials-creative-ways_23-2149409413.jpg?_wi=1",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AeASECDCXxQRNcmkfWpspNsLWo/uploaded-1772943327294-cn69auyy.png",
               imageAlt: "Classic cotton t-shirt",
             },
             {
