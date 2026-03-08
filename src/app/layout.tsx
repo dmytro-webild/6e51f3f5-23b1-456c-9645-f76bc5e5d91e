@@ -2,8 +2,6 @@ import type { Metadata } from "next";
 import "./styles/variables.css";
 import "./styles/base.css";
 import localFont from "next/font/local";
-import { ServiceWrapper } from "@/providers/serviceWrapper/ServiceWrapper";
-import { Tag } from "@/components/common/Tag";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff2",  variable: "--font-geist-sans",  weight: "100 900"});
@@ -24,10 +22,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <ServiceWrapper>
-          {children}
-          <Tag />
-        </ServiceWrapper>
+        {children}
         <script
           async
           src="https://cdn.jsdelivr.net/npm/gsap@3.12.2/dist/gsap.min.js"
