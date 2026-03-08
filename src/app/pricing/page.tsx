@@ -172,7 +172,7 @@ export default function PricingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg?_wi=4"
           imageAlt="ShopHub retail environment"
           columns={footerColumns}
           logoText="ShopHub"
