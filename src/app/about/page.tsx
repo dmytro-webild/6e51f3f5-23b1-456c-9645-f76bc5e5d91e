@@ -90,7 +90,7 @@ export default function AboutPage() {
               rating: 5,
               reviewCount: "2.3k",
               imageSrc:
-                "http://img.b2bpic.net/free-vector/cyber-monday-composition-with-flat-design_23-2147943559.jpg",
+                "http://img.b2bpic.net/free-vector/cyber-monday-composition-with-flat-design_23-2147943559.jpg?_wi=3",
               imageAlt: "Premium wireless headphones",
             },
             {
@@ -101,7 +101,7 @@ export default function AboutPage() {
               rating: 4,
               reviewCount: "1.8k",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/adult-reusing-materials-creative-ways_23-2149409413.jpg",
+                "http://img.b2bpic.net/free-photo/adult-reusing-materials-creative-ways_23-2149409413.jpg?_wi=3",
               imageAlt: "Classic cotton t-shirt",
             },
             {
@@ -112,7 +112,7 @@ export default function AboutPage() {
               rating: 5,
               reviewCount: "945",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/women-happily-shopping-buying-consumer-products-customer-day_23-2151623457.jpg",
+                "http://img.b2bpic.net/free-photo/women-happily-shopping-buying-consumer-products-customer-day_23-2151623457.jpg?_wi=3",
               imageAlt: "Ergonomic office chair",
             },
           ]}
@@ -129,7 +129,7 @@ export default function AboutPage() {
               company: "Digital Agency Co",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg",
+                "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg?_wi=2",
             },
             {
               id: "2",
@@ -138,7 +138,7 @@ export default function AboutPage() {
               company: "Tech Innovations Inc",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202433.jpg",
+                "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202433.jpg?_wi=2",
             },
             {
               id: "3",
@@ -147,7 +147,7 @@ export default function AboutPage() {
               company: "Retail Excellence",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/beautiful-business-woman-portrait_23-2149280717.jpg",
+                "http://img.b2bpic.net/free-photo/beautiful-business-woman-portrait_23-2149280717.jpg?_wi=2",
             },
           ]}
           kpiItems={[
@@ -167,7 +167,7 @@ export default function AboutPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg?_wi=3"
           imageAlt="ShopHub retail environment"
           columns={footerColumns}
           logoText="ShopHub"
