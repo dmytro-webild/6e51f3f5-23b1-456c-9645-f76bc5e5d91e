@@ -76,7 +76,7 @@ export default function ContactPage() {
             variant: "sparkles-gradient",
           }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-vector/modern-business-flyer-template-with-flat-design_23-2147913203.jpg"
+          imageSrc="http://img.b2bpic.net/free-vector/modern-business-flyer-template-with-flat-design_23-2147913203.jpg?_wi=3"
           imageAlt="Newsletter signup"
           mediaAnimation="slide-up"
           mediaPosition="right"
@@ -88,7 +88,7 @@ export default function ContactPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg?_wi=5"
           imageAlt="ShopHub retail environment"
           logoText="ShopHub"
           copyrightText="© 2025 ShopHub. All rights reserved."
