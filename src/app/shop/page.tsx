@@ -64,7 +64,7 @@ export default function ShopPage() {
               price: "$199.99",
               rating: 5,
               reviewCount: "2.3k",
-              imageSrc: "http://img.b2bpic.net/free-vector/cyber-monday-composition-with-flat-design_23-2147943559.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/cyber-monday-composition-with-flat-design_23-2147943559.jpg?_wi=2",
               imageAlt: "Premium wireless headphones",
             },
             {
@@ -74,7 +74,7 @@ export default function ShopPage() {
               price: "$49.99",
               rating: 4,
               reviewCount: "1.8k",
-              imageSrc: "http://img.b2bpic.net/free-photo/adult-reusing-materials-creative-ways_23-2149409413.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/adult-reusing-materials-creative-ways_23-2149409413.jpg?_wi=2",
               imageAlt: "Classic cotton t-shirt",
             },
             {
@@ -84,7 +84,7 @@ export default function ShopPage() {
               price: "$349.99",
               rating: 5,
               reviewCount: "945",
-              imageSrc: "http://img.b2bpic.net/free-photo/women-happily-shopping-buying-consumer-products-customer-day_23-2151623457.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/women-happily-shopping-buying-consumer-products-customer-day_23-2151623457.jpg?_wi=2",
               imageAlt: "Ergonomic office chair",
             },
           ]}
@@ -167,7 +167,7 @@ export default function ShopPage() {
           tagIcon={Mail}
           background={{ variant: "sparkles-gradient" }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-vector/modern-business-flyer-template-with-flat-design_23-2147913203.jpg"
+          imageSrc="http://img.b2bpic.net/free-vector/modern-business-flyer-template-with-flat-design_23-2147913203.jpg?_wi=2"
           imageAlt="Customer support"
           mediaAnimation="slide-up"
           mediaPosition="right"
@@ -179,7 +179,7 @@ export default function ShopPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg?_wi=2"
           imageAlt="ShopHub retail environment"
           logoText="ShopHub"
           copyrightText="© 2025 ShopHub. All rights reserved."

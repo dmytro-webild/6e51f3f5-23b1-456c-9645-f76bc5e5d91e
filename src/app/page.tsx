@@ -148,7 +148,7 @@ export default function HomePage() {
               price: "$199.99",
               rating: 5,
               reviewCount: "2.3k",
-              imageSrc: "http://img.b2bpic.net/free-vector/cyber-monday-composition-with-flat-design_23-2147943559.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/cyber-monday-composition-with-flat-design_23-2147943559.jpg?_wi=1",
               imageAlt: "Premium wireless headphones",
             },
             {
@@ -158,7 +158,7 @@ export default function HomePage() {
               price: "$49.99",
               rating: 4,
               reviewCount: "1.8k",
-              imageSrc: "http://img.b2bpic.net/free-photo/adult-reusing-materials-creative-ways_23-2149409413.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/adult-reusing-materials-creative-ways_23-2149409413.jpg?_wi=1",
               imageAlt: "Classic cotton t-shirt",
             },
             {
@@ -168,7 +168,7 @@ export default function HomePage() {
               price: "$349.99",
               rating: 5,
               reviewCount: "945",
-              imageSrc: "http://img.b2bpic.net/free-photo/women-happily-shopping-buying-consumer-products-customer-day_23-2151623457.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/women-happily-shopping-buying-consumer-products-customer-day_23-2151623457.jpg?_wi=1",
               imageAlt: "Ergonomic office chair",
             },
           ]}
@@ -259,7 +259,7 @@ export default function HomePage() {
               role: "Marketing Manager",
               company: "Digital Agency Co",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg?_wi=1",
               imageAlt: "Sarah Johnson",
             },
             {
@@ -268,7 +268,7 @@ export default function HomePage() {
               role: "Product Designer",
               company: "Tech Innovations Inc",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202433.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202433.jpg?_wi=1",
               imageAlt: "Michael Chen",
             },
             {
@@ -277,7 +277,7 @@ export default function HomePage() {
               role: "Business Owner",
               company: "Retail Excellence",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-business-woman-portrait_23-2149280717.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-business-woman-portrait_23-2149280717.jpg?_wi=1",
               imageAlt: "Emily Rodriguez",
             },
             {
@@ -336,7 +336,7 @@ export default function HomePage() {
           tagIcon={Mail}
           background={{ variant: "sparkles-gradient" }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-vector/modern-business-flyer-template-with-flat-design_23-2147913203.jpg"
+          imageSrc="http://img.b2bpic.net/free-vector/modern-business-flyer-template-with-flat-design_23-2147913203.jpg?_wi=1"
           imageAlt="Newsletter signup"
           mediaAnimation="slide-up"
           mediaPosition="right"
@@ -348,7 +348,7 @@ export default function HomePage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg?_wi=1"
           imageAlt="ShopHub retail environment"
           logoText="ShopHub"
           copyrightText="© 2025 ShopHub. All rights reserved."
