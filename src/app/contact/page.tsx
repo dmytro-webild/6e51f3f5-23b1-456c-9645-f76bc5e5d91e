@@ -10,8 +10,9 @@ import { Mail } from "lucide-react";
 export default function ContactPage() {
   const navItems = [
     { name: "Shop", id: "/" },
-    { name: "About", id: "/about" },
-    { name: "Pricing", id: "/pricing" },
+    { name: "About", id: "#about" },
+    { name: "Pricing", id: "#pricing" },
+    { name: "Services", id: "/services" },
     { name: "Contact", id: "/contact" },
   ];
 
@@ -26,8 +27,8 @@ export default function ContactPage() {
     },
     {
       title: "Company",      items: [
-        { label: "About Us", href: "/about" },
-        { label: "Pricing", href: "/pricing" },
+        { label: "About Us", href: "#" },
+        { label: "Pricing", href: "#" },
         { label: "Careers", href: "#" },
         { label: "Blog", href: "#" },
       ],
