@@ -5,6 +5,7 @@ import NavbarStyleFullscreen from "@/components/navbar/NavbarStyleFullscreen/Nav
 import ContactSplit from "@/components/sections/contact/ContactSplit";
 import FooterMedia from "@/components/sections/footer/FooterMedia";
 import Link from "next/link";
+import { Mail } from "lucide-react";
 
 export default function ContactPage() {
   const navItems = [
@@ -16,8 +17,7 @@ export default function ContactPage() {
 
   const footerColumns = [
     {
-      title: "Shop",
-      items: [
+      title: "Shop",      items: [
         { label: "Products", href: "/" },
         { label: "Categories", href: "/" },
         { label: "Best Sellers", href: "/" },
@@ -25,8 +25,7 @@ export default function ContactPage() {
       ],
     },
     {
-      title: "Company",
-      items: [
+      title: "Company",      items: [
         { label: "About Us", href: "/about" },
         { label: "Pricing", href: "/pricing" },
         { label: "Careers", href: "#" },
@@ -34,8 +33,7 @@ export default function ContactPage() {
       ],
     },
     {
-      title: "Support",
-      items: [
+      title: "Support",      items: [
         { label: "Contact Us", href: "/contact" },
         { label: "FAQ", href: "#" },
         { label: "Shipping Info", href: "#" },
@@ -71,12 +69,11 @@ export default function ContactPage() {
           tag="Newsletter"
           title="Stay Updated with Our Latest Deals"
           description="Subscribe to our newsletter and get exclusive discounts, early access to sales, and insider tips on the best products."
-          tagIcon="Mail"
+          tagIcon={Mail}
           background={{
-            variant: "sparkles-gradient",
-          }}
+            variant: "sparkles-gradient"}}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-vector/modern-business-flyer-template-with-flat-design_23-2147913203.jpg?_wi=3"
+          imageSrc="http://img.b2bpic.net/free-vector/modern-business-flyer-template-with-flat-design_23-2147913203.jpg"
           imageAlt="Newsletter signup"
           mediaAnimation="slide-up"
           mediaPosition="right"
@@ -88,7 +85,7 @@ export default function ContactPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg?_wi=5"
+          imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-shopping-mall-interior_1203-8287.jpg"
           imageAlt="ShopHub retail environment"
           logoText="ShopHub"
           copyrightText="© 2025 ShopHub. All rights reserved."
